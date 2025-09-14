@@ -1,0 +1,20 @@
+[
+  {
+    "task_id": 1,
+    "zero_shot": "Paris",
+    "few_shot": "Paris",
+    "cot": "Step 1: The question asks for the capital city of a specific country.\n\nStep 2: The country in question is France.\n\nStep 3:  The capital city of France is Paris.\n\nTherefore, the answer is **Paris**."
+  },
+  {
+    "task_id": 2,
+    "zero_shot": "4",
+    "few_shot": "4",
+    "cot": "Step 1: We have the number 2.\n\nStep 2: We are adding another number 2 to it.\n\nStep 3: 2 + 2 = 4\n\nTherefore, the answer is $\\boxed{4}$"
+  },
+  {
+    "task_id": 3,
+    "zero_shot": "William Shakespeare",
+    "few_shot": "Shakespeare",
+    "cot": "Step 1:  The question asks about the authorship of Hamlet, a famous play.\n\nStep 2:  Hamlet is widely attributed to a single author.\n\nStep 3: That author is William Shakespeare.\nAnswer: William Shakespeare"
+  }
+]
