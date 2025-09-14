@@ -1,0 +1,21 @@
+task_id,zero_shot,few_shot,cot
+1,Paris,Paris,"Step 1: The question asks for the capital city of a specific country.
+
+Step 2: The country in question is France.
+
+Step 3:  The capital city of France is Paris.
+
+Therefore, the answer is **Paris**."
+2,4,4,"Step 1: We have the number 2.
+
+Step 2: We are adding another number 2 to it.
+
+Step 3: 2 + 2 = 4
+
+Therefore, the answer is $\boxed{4}$"
+3,William Shakespeare,Shakespeare,"Step 1:  The question asks about the authorship of Hamlet, a famous play.
+
+Step 2:  Hamlet is widely attributed to a single author.
+
+Step 3: That author is William Shakespeare.
+Answer: William Shakespeare"
